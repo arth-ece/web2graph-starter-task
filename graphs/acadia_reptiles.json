@@ -1,0 +1,2403 @@
+{
+  "nodes": [
+    {
+      "value": "Diadophis punctatus",
+      "type": "Species",
+      "order": "Squamata",
+      "family": "Colubridae",
+      "common_names": [
+        "Northern Ringneck Snake",
+        "Ringneck Snake",
+        "Ring-necked Snake"
+      ]
+    },
+    {
+      "value": "Acadia National Park",
+      "type": "Park"
+    },
+    {
+      "value": "Abraham Lincoln Birthplace National Historical Park (ABLI)",
+      "type": "Park"
+    },
+    {
+      "value": "Allegheny Portage Railroad National Historic Site (ALPO)",
+      "type": "Park"
+    },
+    {
+      "value": "Amistad National Recreation Area (AMIS)",
+      "type": "Park"
+    },
+    {
+      "value": "Bandelier National Monument (BAND)",
+      "type": "Park"
+    },
+    {
+      "value": "Big Bend National Park (BIBE)",
+      "type": "Park"
+    },
+    {
+      "value": "Cape Hatteras National Seashore (CAHA)",
+      "type": "Park"
+    },
+    {
+      "value": "Canaveral National Seashore (CANA)",
+      "type": "Park"
+    },
+    {
+      "value": "Carl Sandburg Home National Historic Site (CARL)",
+      "type": "Park"
+    },
+    {
+      "value": "Carlsbad Caverns National Park (CAVE)",
+      "type": "Park"
+    },
+    {
+      "value": "Chattahoochee River National Recreation Area (CHAT)",
+      "type": "Park"
+    },
+    {
+      "value": "Chickamauga and Chattanooga National Military Park (CHCH)",
+      "type": "Park"
+    },
+    {
+      "value": "Chiricahua National Monument (CHIR)",
+      "type": "Park"
+    },
+    {
+      "value": "Congaree National Park (CONG)",
+      "type": "Park"
+    },
+    {
+      "value": "Coronado National Memorial (CORO)",
+      "type": "Park"
+    },
+    {
+      "value": "Cowpens National Battlefield (COWP)",
+      "type": "Park"
+    },
+    {
+      "value": "Cumberland Gap National Historical Park (CUGA)",
+      "type": "Park"
+    },
+    {
+      "value": "Cumberland Island National Seashore (CUIS)",
+      "type": "Park"
+    },
+    {
+      "value": "Cuyahoga Valley National Park (CUVA)",
+      "type": "Park"
+    },
+    {
+      "value": "Death Valley National Park (DEVA)",
+      "type": "Park"
+    },
+    {
+      "value": "Effigy Mounds National Monument (EFMO)",
+      "type": "Park"
+    },
+    {
+      "value": "El Morro National Monument (ELMO)",
+      "type": "Park"
+    },
+    {
+      "value": "Eugene O'Neill National Historic Site (EUON)",
+      "type": "Park"
+    },
+    {
+      "value": "Fort Bowie National Historic Site (FOBO)",
+      "type": "Park"
+    },
+    {
+      "value": "Fort Donelson National Battlefield (FODO)",
+      "type": "Park"
+    },
+    {
+      "value": "Muir Woods National Monument (MUWO)",
+      "type": "Park"
+    },
+    {
+      "value": "Mammoth Cave National Park (MACA)",
+      "type": "Park"
+    },
+    {
+      "value": "Kings Mountain National Military Park (KIMO)",
+      "type": "Park"
+    },
+    {
+      "value": "Ocmulgee Mounds National Historical Park (OCMU)",
+      "type": "Park"
+    },
+    {
+      "value": "Fort Union National Monument (FOUN)",
+      "type": "Park"
+    },
+    {
+      "value": "Lake Mead National Recreation Area (LAKE)",
+      "type": "Park"
+    },
+    {
+      "value": "Washita Battlefield National Historic Site (WABA)",
+      "type": "Park"
+    },
+    {
+      "value": "Grand Canyon National Park (GRCA)",
+      "type": "Park"
+    },
+    {
+      "value": "Redwood National Park (REDW)",
+      "type": "Park"
+    },
+    {
+      "value": "Guilford Courthouse National Military Park (GUCO)",
+      "type": "Park"
+    },
+    {
+      "value": "Guadalupe Mountains National Park (GUMO)",
+      "type": "Park"
+    },
+    {
+      "value": "Golden Gate National Recreation Area (GOGA)",
+      "type": "Park"
+    },
+    {
+      "value": "Kennesaw Mountain National Battlefield Park (KEMO)",
+      "type": "Park"
+    },
+    {
+      "value": "Fort Larned National Historic Site (FOLS)",
+      "type": "Park"
+    },
+    {
+      "value": "Natchez Trace Parkway (NATR)",
+      "type": "Park"
+    },
+    {
+      "value": "Saguaro National Park (SAGU)",
+      "type": "Park"
+    },
+    {
+      "value": "Pinnacles National Park (PINN)",
+      "type": "Park"
+    },
+    {
+      "value": "Tuzigoot National Monument (TUZI)",
+      "type": "Park"
+    },
+    {
+      "value": "Ninety Six National Historic Site (NISI)",
+      "type": "Park"
+    },
+    {
+      "value": "Timucuan Ecological and Historic Preserve (TIMU)",
+      "type": "Park"
+    },
+    {
+      "value": "Niobrara National Scenic River (NIOB)",
+      "type": "Park"
+    },
+    {
+      "value": "Little River Canyon National Preserve (LIRI)",
+      "type": "Park"
+    },
+    {
+      "value": "Tonto National Monument (TONT)",
+      "type": "Park"
+    },
+    {
+      "value": "Nez Perce National Historical Park (NEPE)",
+      "type": "Park"
+    },
+    {
+      "value": "Gulf Islands National Seashore (GUIS)",
+      "type": "Park"
+    },
+    {
+      "value": "Montezuma Castle National Monument (MOCA)",
+      "type": "Park"
+    },
+    {
+      "value": "Walnut Canyon National Monument (WACA)",
+      "type": "Park"
+    },
+    {
+      "value": "Sequoia and Kings Canyon National Parks (SEKI)",
+      "type": "Park"
+    },
+    {
+      "value": "Johnstown Flood National Memorial (JOFL)",
+      "type": "Park"
+    },
+    {
+      "value": "Mojave National Preserve (MOJA)",
+      "type": "Park"
+    },
+    {
+      "value": "Presidio of San Francisco (PRSF)",
+      "type": "Park"
+    },
+    {
+      "value": "Missouri National Recreational River (MNRR)",
+      "type": "Park"
+    },
+    {
+      "value": "Horseshoe Bend National Military Park (HOBE)",
+      "type": "Park"
+    },
+    {
+      "value": "Petroglyph National Monument (PETR)",
+      "type": "Park"
+    },
+    {
+      "value": "Russell Cave National Monument (RUCA)",
+      "type": "Park"
+    },
+    {
+      "value": "Shenandoah National Park (SHEN)",
+      "type": "Park"
+    },
+    {
+      "value": "Whiskeytown National Recreation Area (WHIS)",
+      "type": "Park"
+    },
+    {
+      "value": "Gila Cliff Dwellings National Monument (GICL)",
+      "type": "Park"
+    },
+    {
+      "value": "Lava Beds National Monument (LABE)",
+      "type": "Park"
+    },
+    {
+      "value": "Shiloh National Military Park (SHIL)",
+      "type": "Park"
+    },
+    {
+      "value": "Richmond National Battlefield Park (RICH)",
+      "type": "Park"
+    },
+    {
+      "value": "First State National Historical Park (FRST)",
+      "type": "Park"
+    },
+    {
+      "value": "Katahdin Woods and Waters National Monument (KAWW)",
+      "type": "Park"
+    },
+    {
+      "value": "Yosemite National Park (YOSE)",
+      "type": "Park"
+    },
+    {
+      "value": "Zion National Park (ZION)",
+      "type": "Park"
+    },
+    {
+      "value": "Lampropeltis triangulum",
+      "type": "Species",
+      "order": "Squamata",
+      "family": "Colubridae",
+      "common_names": [
+        "Eastern Milk Snake",
+        "Milk Snake",
+        "Northern Milk Snake",
+        "Spotted Adder"
+      ]
+    },
+    {
+      "value": "Agate Fossil Beds National Monument (AGFO)",
+      "type": "Park"
+    },
+    {
+      "value": "Bighorn Canyon National Recreation Area (BICA)",
+      "type": "Park"
+    },
+    {
+      "value": "Capulin Volcano National Monument (CAVO)",
+      "type": "Park"
+    },
+    {
+      "value": "Colorado National Monument (COLM)",
+      "type": "Park"
+    },
+    {
+      "value": "Devils Tower National Monument (DETO)",
+      "type": "Park"
+    },
+    {
+      "value": "Dinosaur National Monument (DINO)",
+      "type": "Park"
+    },
+    {
+      "value": "Jean Lafitte National Historical Park and Preserve (JELA)",
+      "type": "Park"
+    },
+    {
+      "value": "Hopewell Culture National Historical Park (HOCU)",
+      "type": "Park"
+    },
+    {
+      "value": "Minute Man National Historical Park (MIMA)",
+      "type": "Park"
+    },
+    {
+      "value": "Wind Cave National Park (WICA)",
+      "type": "Park"
+    },
+    {
+      "value": "Petrified Forest National Park (PEFO)",
+      "type": "Park"
+    },
+    {
+      "value": "Wupatki National Monument (WUPA)",
+      "type": "Park"
+    },
+    {
+      "value": "Stones River National Battlefield (STRI)",
+      "type": "Park"
+    },
+    {
+      "value": "Mesa Verde National Park (MEVE)",
+      "type": "Park"
+    },
+    {
+      "value": "Marsh-Billings-Rockefeller National Historical Park (MABI)",
+      "type": "Park"
+    },
+    {
+      "value": "Great Smoky Mountains National Park (GRSM)",
+      "type": "Park"
+    },
+    {
+      "value": "Mount Rushmore National Memorial (MORU)",
+      "type": "Park"
+    },
+    {
+      "value": "Saratoga National Historical Park (SARA)",
+      "type": "Park"
+    },
+    {
+      "value": "Liochlorophis vernalis",
+      "type": "Species",
+      "order": "Squamata",
+      "family": "Colubridae",
+      "common_names": [
+        "Eastern Smooth Green Snake",
+        "Smooth Green Snake",
+        "Smooth-scaled Green Snake"
+      ]
+    },
+    {
+      "value": "Boston Harbor Islands National Recreation Area (BOHA)",
+      "type": "Park"
+    },
+    {
+      "value": "Storeria occipitomaculata",
+      "type": "Species",
+      "order": "Squamata",
+      "family": "Colubridae",
+      "common_names": [
+        "Red-bellied Snake",
+        "Redbelly Snake"
+      ]
+    },
+    {
+      "value": "Big Thicket National Preserve (BITH)",
+      "type": "Park"
+    },
+    {
+      "value": "Blue Ridge Parkway (BLRI)",
+      "type": "Park"
+    },
+    {
+      "value": "Catoctin Mountain Park (CATO)",
+      "type": "Park"
+    },
+    {
+      "value": "Fort Frederica National Monument (FOFR)",
+      "type": "Park"
+    },
+    {
+      "value": "Manassas National Battlefield Park (MANA)",
+      "type": "Park"
+    },
+    {
+      "value": "Prince William Forest Park (PRWI)",
+      "type": "Park"
+    },
+    {
+      "value": "Thamnophis sirtalis",
+      "type": "Species",
+      "order": "Squamata",
+      "family": "Colubridae",
+      "common_names": [
+        "Common Garter Snake",
+        "Eastern Garter Snake",
+        "Garter Snake"
+      ]
+    },
+    {
+      "value": "Assateague Island National Seashore (ASIS)",
+      "type": "Park"
+    },
+    {
+      "value": "Big Hole National Battlefield (BIHO)",
+      "type": "Park"
+    },
+    {
+      "value": "Fort Caroline National Memorial (FOCA)",
+      "type": "Park"
+    },
+    {
+      "value": "Ebey's Landing National Historical Reserve (EBLA)",
+      "type": "Park"
+    },
+    {
+      "value": "Fort Vancouver National Historic Site (FOVA)",
+      "type": "Park"
+    },
+    {
+      "value": "Lassen Volcanic National Park (LAVO)",
+      "type": "Park"
+    },
+    {
+      "value": "Glacier National Park (GLAC)",
+      "type": "Park"
+    },
+    {
+      "value": "Mount Rainier National Park (MORA)",
+      "type": "Park"
+    },
+    {
+      "value": "John Day Fossil Beds National Monument (JODA)",
+      "type": "Park"
+    },
+    {
+      "value": "Knife River Indian Villages National Historic Site (KNRI)",
+      "type": "Park"
+    },
+    {
+      "value": "Grant-Kohrs Ranch National Historic Site (GRKO)",
+      "type": "Park"
+    },
+    {
+      "value": "Grand Portage National Monument (GRPO)",
+      "type": "Park"
+    },
+    {
+      "value": "Lake Roosevelt National Recreation Area (LARO)",
+      "type": "Park"
+    },
+    {
+      "value": "Fort Laramie National Historic Site (FOLA)",
+      "type": "Park"
+    },
+    {
+      "value": "Saint-Gaudens National Historical Park (SAGA)",
+      "type": "Park"
+    },
+    {
+      "value": "Vicksburg National Military Park (VICK)",
+      "type": "Park"
+    },
+    {
+      "value": "Olympic National Park (OLYM)",
+      "type": "Park"
+    },
+    {
+      "value": "Sagamore Hill National Historic Site (SAHI)",
+      "type": "Park"
+    },
+    {
+      "value": "Scotts Bluff National Monument (SCBL)",
+      "type": "Park"
+    },
+    {
+      "value": "Whitman Mission National Historic Site (WHMI)",
+      "type": "Park"
+    },
+    {
+      "value": "Weir Farm National Historical Park (WEFA)",
+      "type": "Park"
+    },
+    {
+      "value": "North Cascades National Park (NOCA)",
+      "type": "Park"
+    },
+    {
+      "value": "Point Reyes National Seashore (PORE)",
+      "type": "Park"
+    },
+    {
+      "value": "Chelydra serpentina",
+      "type": "Species",
+      "order": "Testudines",
+      "family": "Chelydridae",
+      "common_names": [
+        "Common Snapping Turtle",
+        "Snapping Turtle"
+      ]
+    },
+    {
+      "value": "Anacostia Park (ANAC)",
+      "type": "Park"
+    },
+    {
+      "value": "Fire Island National Seashore (FIIS)",
+      "type": "Park"
+    },
+    {
+      "value": "Cape Lookout National Seashore (CALO)",
+      "type": "Park"
+    },
+    {
+      "value": "Chesapeake and Ohio Canal National Historical Park (CHOH)",
+      "type": "Park"
+    },
+    {
+      "value": "Chickasaw National Recreation Area (CHIC)",
+      "type": "Park"
+    },
+    {
+      "value": "Cape Cod National Seashore (CACO)",
+      "type": "Park"
+    },
+    {
+      "value": "George Washington Birthplace National Monument (GEWA)",
+      "type": "Park"
+    },
+    {
+      "value": "Fort Necessity National Battlefield (FONE)",
+      "type": "Park"
+    },
+    {
+      "value": "Herbert Hoover National Historic Site (HEHO)",
+      "type": "Park"
+    },
+    {
+      "value": "Morristown National Historical Park (MORR)",
+      "type": "Park"
+    },
+    {
+      "value": "Martin Van Buren National Historic Site (MAVA)",
+      "type": "Park"
+    },
+    {
+      "value": "Friendship Hill National Historic Site (FRHI)",
+      "type": "Park"
+    },
+    {
+      "value": "Great Falls Park (GRFA)",
+      "type": "Park"
+    },
+    {
+      "value": "George Washington Memorial Parkway (GWMP)",
+      "type": "Park"
+    },
+    {
+      "value": "National Mall and Memorial Parks (NAMA)",
+      "type": "Park"
+    },
+    {
+      "value": "Chrysemys picta",
+      "type": "Species",
+      "order": "Testudines",
+      "family": "Emydidae",
+      "common_names": [
+        "Central Painted Turtle",
+        "Eastern Painted Turtle",
+        "Midland Painted Turtle",
+        "Painted Turtle"
+      ]
+    },
+    {
+      "value": "Aztec Ruins National Monument (AZRU)",
+      "type": "Park"
+    },
+    {
+      "value": "Badlands National Park (BADL)",
+      "type": "Park"
+    },
+    {
+      "value": "Delaware Water Gap National Recreation Area (DEWA)",
+      "type": "Park"
+    },
+    {
+      "value": "Theodore Roosevelt National Park (THRO)",
+      "type": "Park"
+    },
+    {
+      "value": "Organ Pipe Cactus National Monument (ORPI)",
+      "type": "Park"
+    },
+    {
+      "value": "Upper Delaware Scenic and Recreational River (UPDE)",
+      "type": "Park"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Acadia National Park",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Abraham Lincoln Birthplace National Historical Park (ABLI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Allegheny Portage Railroad National Historic Site (ALPO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Amistad National Recreation Area (AMIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Bandelier National Monument (BAND)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Big Bend National Park (BIBE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Cape Hatteras National Seashore (CAHA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Canaveral National Seashore (CANA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Carl Sandburg Home National Historic Site (CARL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Carlsbad Caverns National Park (CAVE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Chattahoochee River National Recreation Area (CHAT)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Chickamauga and Chattanooga National Military Park (CHCH)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Chiricahua National Monument (CHIR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Congaree National Park (CONG)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Coronado National Memorial (CORO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Cowpens National Battlefield (COWP)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Cumberland Gap National Historical Park (CUGA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Cumberland Island National Seashore (CUIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Cuyahoga Valley National Park (CUVA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Death Valley National Park (DEVA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Effigy Mounds National Monument (EFMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "El Morro National Monument (ELMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Eugene O'Neill National Historic Site (EUON)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Fort Bowie National Historic Site (FOBO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Fort Donelson National Battlefield (FODO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Muir Woods National Monument (MUWO)",
+      "type": "present_in",
+      "native_status": "Unknown"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Mammoth Cave National Park (MACA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Kings Mountain National Military Park (KIMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Ocmulgee Mounds National Historical Park (OCMU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Fort Union National Monument (FOUN)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Lake Mead National Recreation Area (LAKE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Washita Battlefield National Historic Site (WABA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Grand Canyon National Park (GRCA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Redwood National Park (REDW)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Guilford Courthouse National Military Park (GUCO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Guadalupe Mountains National Park (GUMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Golden Gate National Recreation Area (GOGA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Kennesaw Mountain National Battlefield Park (KEMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Fort Larned National Historic Site (FOLS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Natchez Trace Parkway (NATR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Saguaro National Park (SAGU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Pinnacles National Park (PINN)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Tuzigoot National Monument (TUZI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Ninety Six National Historic Site (NISI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Timucuan Ecological and Historic Preserve (TIMU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Niobrara National Scenic River (NIOB)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Little River Canyon National Preserve (LIRI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Tonto National Monument (TONT)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Nez Perce National Historical Park (NEPE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Gulf Islands National Seashore (GUIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Montezuma Castle National Monument (MOCA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Walnut Canyon National Monument (WACA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Sequoia and Kings Canyon National Parks (SEKI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Johnstown Flood National Memorial (JOFL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Mojave National Preserve (MOJA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Presidio of San Francisco (PRSF)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Missouri National Recreational River (MNRR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Horseshoe Bend National Military Park (HOBE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Petroglyph National Monument (PETR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Russell Cave National Monument (RUCA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Shenandoah National Park (SHEN)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Whiskeytown National Recreation Area (WHIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Gila Cliff Dwellings National Monument (GICL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Lava Beds National Monument (LABE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Shiloh National Military Park (SHIL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Richmond National Battlefield Park (RICH)",
+      "type": "present_in",
+      "native_status": "Unknown"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "First State National Historical Park (FRST)",
+      "type": "present_in",
+      "native_status": "Unknown"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Katahdin Woods and Waters National Monument (KAWW)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Yosemite National Park (YOSE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Diadophis punctatus",
+      "destination": "Zion National Park (ZION)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Acadia National Park",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Agate Fossil Beds National Monument (AGFO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Allegheny Portage Railroad National Historic Site (ALPO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Big Bend National Park (BIBE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Bighorn Canyon National Recreation Area (BICA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Canaveral National Seashore (CANA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Capulin Volcano National Monument (CAVO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Chattahoochee River National Recreation Area (CHAT)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Colorado National Monument (COLM)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Cumberland Island National Seashore (CUIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Cuyahoga Valley National Park (CUVA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Devils Tower National Monument (DETO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Dinosaur National Monument (DINO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "El Morro National Monument (ELMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Jean Lafitte National Historical Park and Preserve (JELA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Hopewell Culture National Historical Park (HOCU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Minute Man National Historical Park (MIMA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Wind Cave National Park (WICA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Niobrara National Scenic River (NIOB)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Shenandoah National Park (SHEN)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Petrified Forest National Park (PEFO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Wupatki National Monument (WUPA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Stones River National Battlefield (STRI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Johnstown Flood National Memorial (JOFL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Mesa Verde National Park (MEVE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Marsh-Billings-Rockefeller National Historical Park (MABI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Great Smoky Mountains National Park (GRSM)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Mount Rushmore National Memorial (MORU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Timucuan Ecological and Historic Preserve (TIMU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Fort Donelson National Battlefield (FODO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Fort Union National Monument (FOUN)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Lampropeltis triangulum",
+      "destination": "Saratoga National Historical Park (SARA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Liochlorophis vernalis",
+      "destination": "Acadia National Park",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Liochlorophis vernalis",
+      "destination": "Agate Fossil Beds National Monument (AGFO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Liochlorophis vernalis",
+      "destination": "Boston Harbor Islands National Recreation Area (BOHA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Liochlorophis vernalis",
+      "destination": "Wind Cave National Park (WICA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Acadia National Park",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Allegheny Portage Railroad National Historic Site (ALPO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Big Thicket National Preserve (BITH)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Blue Ridge Parkway (BLRI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Catoctin Mountain Park (CATO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Chattahoochee River National Recreation Area (CHAT)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Gulf Islands National Seashore (GUIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Cumberland Gap National Historical Park (CUGA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Effigy Mounds National Monument (EFMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Marsh-Billings-Rockefeller National Historical Park (MABI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Cumberland Island National Seashore (CUIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Johnstown Flood National Memorial (JOFL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Kings Mountain National Military Park (KIMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Cuyahoga Valley National Park (CUVA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Horseshoe Bend National Military Park (HOBE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Congaree National Park (CONG)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Fort Frederica National Monument (FOFR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Kennesaw Mountain National Battlefield Park (KEMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Manassas National Battlefield Park (MANA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Fort Donelson National Battlefield (FODO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Cowpens National Battlefield (COWP)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Mammoth Cave National Park (MACA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Katahdin Woods and Waters National Monument (KAWW)",
+      "type": "present_in",
+      "native_status": "Unknown"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Shenandoah National Park (SHEN)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Ninety Six National Historic Site (NISI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Timucuan Ecological and Historic Preserve (TIMU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Saratoga National Historical Park (SARA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Storeria occipitomaculata",
+      "destination": "Prince William Forest Park (PRWI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Acadia National Park",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Abraham Lincoln Birthplace National Historical Park (ABLI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Allegheny Portage Railroad National Historic Site (ALPO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Assateague Island National Seashore (ASIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Bighorn Canyon National Recreation Area (BICA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Big Hole National Battlefield (BIHO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Devils Tower National Monument (DETO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Congaree National Park (CONG)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Big Thicket National Preserve (BITH)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Fort Caroline National Memorial (FOCA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Ebey's Landing National Historical Reserve (EBLA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Chattahoochee River National Recreation Area (CHAT)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Cuyahoga Valley National Park (CUVA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Cumberland Island National Seashore (CUIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Carl Sandburg Home National Historic Site (CARL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Chickamauga and Chattanooga National Military Park (CHCH)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Cumberland Gap National Historical Park (CUGA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Canaveral National Seashore (CANA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Blue Ridge Parkway (BLRI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Hopewell Culture National Historical Park (HOCU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Fort Vancouver National Historic Site (FOVA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Lassen Volcanic National Park (LAVO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Glacier National Park (GLAC)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Mount Rushmore National Memorial (MORU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Kings Mountain National Military Park (KIMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Kennesaw Mountain National Battlefield Park (KEMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Mount Rainier National Park (MORA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "John Day Fossil Beds National Monument (JODA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Minute Man National Historical Park (MIMA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Gulf Islands National Seashore (GUIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Fort Donelson National Battlefield (FODO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Missouri National Recreational River (MNRR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Horseshoe Bend National Military Park (HOBE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Johnstown Flood National Memorial (JOFL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Knife River Indian Villages National Historic Site (KNRI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Jean Lafitte National Historical Park and Preserve (JELA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Grant-Kohrs Ranch National Historic Site (GRKO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Grand Portage National Monument (GRPO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Golden Gate National Recreation Area (GOGA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Fort Frederica National Monument (FOFR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Lake Roosevelt National Recreation Area (LARO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Fort Laramie National Historic Site (FOLA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Little River Canyon National Preserve (LIRI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Marsh-Billings-Rockefeller National Historical Park (MABI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Mammoth Cave National Park (MACA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Katahdin Woods and Waters National Monument (KAWW)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Niobrara National Scenic River (NIOB)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Shiloh National Military Park (SHIL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Saint-Gaudens National Historical Park (SAGA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Pinnacles National Park (PINN)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Vicksburg National Military Park (VICK)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Nez Perce National Historical Park (NEPE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Russell Cave National Monument (RUCA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Redwood National Park (REDW)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Olympic National Park (OLYM)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Sagamore Hill National Historic Site (SAHI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Shenandoah National Park (SHEN)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Stones River National Battlefield (STRI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Scotts Bluff National Monument (SCBL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Whitman Mission National Historic Site (WHMI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Presidio of San Francisco (PRSF)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Weir Farm National Historical Park (WEFA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "North Cascades National Park (NOCA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Timucuan Ecological and Historic Preserve (TIMU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Whiskeytown National Recreation Area (WHIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Muir Woods National Monument (MUWO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Point Reyes National Seashore (PORE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Natchez Trace Parkway (NATR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Wind Cave National Park (WICA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Acadia National Park",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Abraham Lincoln Birthplace National Historical Park (ABLI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Agate Fossil Beds National Monument (AGFO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Allegheny Portage Railroad National Historic Site (ALPO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Anacostia Park (ANAC)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Assateague Island National Seashore (ASIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Big Thicket National Preserve (BITH)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Fire Island National Seashore (FIIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Cape Lookout National Seashore (CALO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Chesapeake and Ohio Canal National Historical Park (CHOH)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Canaveral National Seashore (CANA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Chattahoochee River National Recreation Area (CHAT)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Effigy Mounds National Monument (EFMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Cumberland Island National Seashore (CUIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Carl Sandburg Home National Historic Site (CARL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Chickasaw National Recreation Area (CHIC)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Cuyahoga Valley National Park (CUVA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Chickamauga and Chattanooga National Military Park (CHCH)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Cape Hatteras National Seashore (CAHA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Blue Ridge Parkway (BLRI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Cape Cod National Seashore (CACO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Congaree National Park (CONG)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Ninety Six National Historic Site (NISI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Missouri National Recreational River (MNRR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Minute Man National Historical Park (MIMA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "George Washington Birthplace National Monument (GEWA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Fort Necessity National Battlefield (FONE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Jean Lafitte National Historical Park and Preserve (JELA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Niobrara National Scenic River (NIOB)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Horseshoe Bend National Military Park (HOBE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Marsh-Billings-Rockefeller National Historical Park (MABI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Hopewell Culture National Historical Park (HOCU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Ocmulgee Mounds National Historical Park (OCMU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Herbert Hoover National Historic Site (HEHO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Morristown National Historical Park (MORR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Gulf Islands National Seashore (GUIS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Martin Van Buren National Historic Site (MAVA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Kings Mountain National Military Park (KIMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Little River Canyon National Preserve (LIRI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Friendship Hill National Historic Site (FRHI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Fort Caroline National Memorial (FOCA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Mammoth Cave National Park (MACA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Kennesaw Mountain National Battlefield Park (KEMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Great Falls Park (GRFA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Great Smoky Mountains National Park (GRSM)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Guilford Courthouse National Military Park (GUCO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Natchez Trace Parkway (NATR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Fort Larned National Historic Site (FOLS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Fort Laramie National Historic Site (FOLA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "George Washington Memorial Parkway (GWMP)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "National Mall and Memorial Parks (NAMA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "First State National Historical Park (FRST)",
+      "type": "present_in",
+      "native_status": "Unknown"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Katahdin Woods and Waters National Monument (KAWW)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Acadia National Park",
+      "type": "present_in",
+      "native_status": "Non-Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Agate Fossil Beds National Monument (AGFO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Aztec Ruins National Monument (AZRU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Badlands National Park (BADL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Bighorn Canyon National Recreation Area (BICA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Chattahoochee River National Recreation Area (CHAT)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Cape Cod National Seashore (CACO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Delaware Water Gap National Recreation Area (DEWA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Cuyahoga Valley National Park (CUVA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Carl Sandburg Home National Historic Site (CARL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Glacier National Park (GLAC)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Marsh-Billings-Rockefeller National Historical Park (MABI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Fort Larned National Historic Site (FOLS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Kennesaw Mountain National Battlefield Park (KEMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Friendship Hill National Historic Site (FRHI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Jean Lafitte National Historical Park and Preserve (JELA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Fort Necessity National Battlefield (FONE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Kings Mountain National Military Park (KIMO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Martin Van Buren National Historic Site (MAVA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Grant-Kohrs Ranch National Historic Site (GRKO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Minute Man National Historical Park (MIMA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Fort Laramie National Historic Site (FOLA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Lake Roosevelt National Recreation Area (LARO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Katahdin Woods and Waters National Monument (KAWW)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Missouri National Recreational River (MNRR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Niobrara National Scenic River (NIOB)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Sagamore Hill National Historic Site (SAHI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Ninety Six National Historic Site (NISI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Theodore Roosevelt National Park (THRO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Organ Pipe Cactus National Monument (ORPI)",
+      "type": "present_in",
+      "native_status": "Non-Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Wind Cave National Park (WICA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Upper Delaware Scenic and Recreational River (UPDE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Saint-Gaudens National Historical Park (SAGA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Shenandoah National Park (SHEN)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Whitman Mission National Historic Site (WHMI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Weir Farm National Historical Park (WEFA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Scotts Bluff National Monument (SCBL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chrysemys picta",
+      "destination": "Ocmulgee Mounds National Historical Park (OCMU)",
+      "type": "present_in",
+      "native_status": "Native"
+    }
+  ]
+}
