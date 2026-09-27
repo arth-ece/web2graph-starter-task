@@ -4,7 +4,7 @@ import json ## to turn python lists and dicts into json graphs ##
 import re ## using regex to pull out park id from website links ##
 import time ## delay request times by 0.5s for handling requests when creating my json ##
 import os ## for reading the NPS API key from the environment ##
-from dotenv import load_dotenv ## loads variables from .env into the environment ##
+from dotenv import load_dotenv ## loads contents (specifically my api key) from .env into the environment ##
 from bs4 import BeautifulSoup ## for parsing HTML webpages, similar to ET ##
 
 load_dotenv() ## reads my .env file and looks for api key-value ##
