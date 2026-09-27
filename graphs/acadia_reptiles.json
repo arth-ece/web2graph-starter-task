@@ -632,6 +632,30 @@
     {
       "value": "Upper Delaware Scenic and Recreational River (UPDE)",
       "type": "Park"
+    },
+    {
+      "value": "Fort Union Trading Post National Historic Site (FOUS)",
+      "type": "Park"
+    },
+    {
+      "value": "Fort Matanzas National Monument (FOMA)",
+      "type": "Park"
+    },
+    {
+      "value": "San Antonio Missions National Historical Park (SAAN)",
+      "type": "Park"
+    },
+    {
+      "value": "Piscataway Park (PISC)",
+      "type": "Park"
+    },
+    {
+      "value": "Rock Creek Park (ROCR)",
+      "type": "Park"
+    },
+    {
+      "value": "Sleeping Bear Dunes National Lakeshore (SLBE)",
+      "type": "Park"
     }
   ],
   "edges": [
@@ -2396,6 +2420,42 @@
     {
       "source": "Chrysemys picta",
       "destination": "Ocmulgee Mounds National Historical Park (OCMU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Fort Union Trading Post National Historic Site (FOUS)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Thamnophis sirtalis",
+      "destination": "Fort Matanzas National Monument (FOMA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "San Antonio Missions National Historical Park (SAAN)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Piscataway Park (PISC)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Rock Creek Park (ROCR)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Sleeping Bear Dunes National Lakeshore (SLBE)",
       "type": "present_in",
       "native_status": "Native"
     }
