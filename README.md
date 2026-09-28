@@ -82,7 +82,7 @@ The starting park uses the name you passed in. Other parks use the name exactly 
 **Design choices**
 
 - I decided to put native_status in the edges only because a species can be native in one park but not the other. The status should belong to the species-park pair. 
-- I only included Park occurrence when "Occurrence" was exactly "Present". If it was anything else, even "Probably Present", I did not include it in my node.
+- I only included Park occurrence when "Occurrence" was exactly "Present". If it was anything else, even "Probably Present", it was excluded. Therefore, a missing edge means that the animal was "not present"
 - Each park has exactly one node, however many species connect to it.
 
 ## How the scraper works
