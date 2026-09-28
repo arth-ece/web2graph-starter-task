@@ -101,7 +101,7 @@ The REST API is used wherever possible because structured output is more reliabl
 
 | Graph | Species | Parks | Edges |
 |---|---|---|---|
-| Acadia reptiles | 7 | 151 | 308 |
+| Acadia reptiles | 7 | 145 | 308 |
 | Acadia amphibians | 11 | 151 | 493 |
 | Badlands reptiles | 6 | 156 | 274 |
 
