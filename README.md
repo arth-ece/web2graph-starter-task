@@ -21,7 +21,7 @@ When you feed this scraper a park name and an animal category, it will generate 
 ```
    NPS_API_KEY=your_api_key
 ```
-The OS library is what helps with your scraper scanning your .env file and finding the API key. 
+the python-dotenv library is what makes sure that the program is able to read the API key from your .env file 
 
 ## Usage
 
