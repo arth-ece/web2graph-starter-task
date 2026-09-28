@@ -21,7 +21,7 @@ When you feed this scraper a park name and an animal category, it will generate 
 ```
    NPS_API_KEY=your_api_key
 ```
-if the key is not found, there will be a key error. The OS library is what helps with your scraper scanning your .env file and finding the API key. 
+The OS library is what helps with your scraper scanning your .env file and finding the API key. 
 
 ## Usage
 
