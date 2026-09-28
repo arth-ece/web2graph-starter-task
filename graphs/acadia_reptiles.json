@@ -2337,7 +2337,7 @@
       "source": "Chrysemys picta",
       "destination": "Katahdin Woods and Waters National Monument (KAWW)",
       "type": "present_in",
-      "native_status": "Native"
+      "native_status": "Unknown"
     },
     {
       "source": "Chrysemys picta",
@@ -2456,6 +2456,54 @@
     {
       "source": "Chelydra serpentina",
       "destination": "Sleeping Bear Dunes National Lakeshore (SLBE)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Sagamore Hill National Historic Site (SAHI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Saint-Gaudens National Historical Park (SAGA)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Shenandoah National Park (SHEN)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Shiloh National Military Park (SHIL)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Stones River National Battlefield (STRI)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Theodore Roosevelt National Park (THRO)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Timucuan Ecological and Historic Preserve (TIMU)",
+      "type": "present_in",
+      "native_status": "Native"
+    },
+    {
+      "source": "Chelydra serpentina",
+      "destination": "Wind Cave National Park (WICA)",
       "type": "present_in",
       "native_status": "Native"
     }

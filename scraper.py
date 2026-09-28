@@ -6,6 +6,7 @@ import time ## delay request times by 0.5s for handling requests when creating m
 import os ## for reading the NPS API key from the environment ##
 from dotenv import load_dotenv ## loads contents (specifically my api key) from .env into the environment ##
 from bs4 import BeautifulSoup ## for parsing HTML webpages, similar to ET ##
+import argparse
 
 load_dotenv() ## reads my .env file and looks for api key-value ##
 NPS_API_KEY = os.getenv("NPS_API_KEY")
@@ -210,6 +211,26 @@ def run_and_save(park_name: str, category: str, output_path: str) -> None:
     print()
 
 
+def default_output_path(park_name, category):
+    park_slug = park_name.lower().replace(" national park", "").replace(" ", "_")
+    return f"graphs/{park_slug}_{category.lower()}_scraped.json"
+
+
 if __name__ == "__main__":
-    run_and_save("Acadia National Park", "Amphibian", "graphs/acadia_amphibians.json") ## running scraper simulation for ACAD amphibians ##
-    run_and_save("Badlands National Park", "Reptile", "graphs/badlands_reptiles.json") ## running scraper simulations for Badlands National Park Reptiles ##
+    parser = argparse.ArgumentParser(
+        description="Build a species/park knowledge graph from NPSpecies data."
+    )
+    parser.add_argument("park", nargs="?", help='Park name, e.g. "Acadia National Park"')
+    parser.add_argument("category", nargs="?", help="Animal category, e.g. reptiles or amphibians")
+    parser.add_argument("-o", "--output", help="Output JSON path")
+    args = parser.parse_args()
+
+    if args.park and args.category:
+        output = args.output or default_output_path(args.park, args.category)
+        run_and_save(args.park, args.category, output)
+    elif args.park or args.category:
+        parser.error("provide both a park and a category, or neither to run the three default graphs")
+    else:
+        run_and_save("Acadia National Park", "Reptile", "graphs/acadia_reptiles.json")
+        run_and_save("Acadia National Park", "Amphibian", "graphs/acadia_amphibians.json")
+        run_and_save("Badlands National Park", "Reptile", "graphs/badlands_reptiles.json")
